@@ -1,5 +1,7 @@
 
-<img href="https://raw.githubusercontent.com/blu3drag0nsec/blu3drag0nsec.github.io/master/blu3drag0nsec_raw.jpg" />
+# Under construction ... for a while
+
+<img src="https://raw.githubusercontent.com/blu3drag0nsec/blu3drag0nsec.github.io/master/blu3drag0nsec_raw.jpg" />
 
 ## Social
 
