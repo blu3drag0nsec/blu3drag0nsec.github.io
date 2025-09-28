@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblu_3_notes=self.webpackChunkblu_3_notes||[]).push([[583],{6866:(t,e,s)=>{s.r(e),s.d(e,{default:()=>l});var n=s(4586),u=s(1656),i=s(4848);function l(){const{siteConfig:t}=(0,n.A)();return(0,i.jsx)(u.A,{title:`${t.title}`,description:"blu3 notes"})}}}]);
