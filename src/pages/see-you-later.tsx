@@ -93,7 +93,7 @@ export default function SeeYouLater(): ReactNode {
         <p>
           Yep. You clicked a mysterious link from the security person on their
           way out the door… and it was a Rickroll. If I taught you anything,
-          let it be this: <strong>always hover before you click.</strong> 😄
+          let it be this: <strong>always think before you click.</strong> 😄
         </p>
 
         <h2>For old times' sake</h2>
@@ -113,7 +113,7 @@ export default function SeeYouLater(): ReactNode {
           trainings we shared were some of my favourite moments here. Thanks for
           every question that made me think, every discussion that ran long
           because it was actually interesting, and for making this team one I'll
-          genuinely miss. Keep learning, keep sharing — and keep hovering before
+          genuinely miss. Keep learning, keep sharing — and keep thinking before
           you click.
         </p>
         <p style={{opacity: 0.9, marginTop: '2rem'}}>Never gonna give you up,</p>
