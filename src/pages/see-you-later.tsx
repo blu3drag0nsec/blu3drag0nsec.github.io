@@ -2,10 +2,9 @@ import type {ReactNode} from 'react';
 import {useState} from 'react';
 import Layout from '@theme/Layout';
 
-// Rick Astley - Never Gonna Give You Up
 const VIDEO_ID = 'dQw4w9WgXcQ';
 
-export default function Awareness(): ReactNode {
+export default function SeeYouLater(): ReactNode {
   const [started, setStarted] = useState(false);
 
   const src = started
